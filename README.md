@@ -1,1 +1,2 @@
-# Ingenier-a-de-Requisitos
+# Ingeniería-de-Requisitos
+Repositorio creado para trabajar con todo el equipo.
